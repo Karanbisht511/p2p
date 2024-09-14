@@ -1,0 +1,19 @@
+{
+  "name": "p2p",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dat-swarm-defaults": "^1.0.3",
+    "datland-swarm-defaults": "^1.0.2",
+    "discovery-swarm": "^6.1.0",
+    "get-port": "^7.1.0",
+    "portfinder": "^1.0.32"
+  }
+}
